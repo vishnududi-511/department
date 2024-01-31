@@ -209,11 +209,11 @@ section {
     line-height: 20px;
     letter-spacing: 0.2px;
 }
-
-.ml-10 {
-    margin-top: 185px;
+.pt-2 {
+    padding-top: 182px;
 }
 
 .pd-1 {
     padding-right: 60px;
 }
+
